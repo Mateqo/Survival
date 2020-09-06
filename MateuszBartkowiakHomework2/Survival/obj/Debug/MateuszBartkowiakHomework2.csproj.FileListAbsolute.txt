@@ -34,3 +34,15 @@ C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakH
 C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.CoreCompileInputs.cache
 C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.exe
 C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.pdb
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.exe.config
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.exe
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.pdb
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csprojAssemblyReference.cache
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.End.resources
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Game.resources
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Info.resources
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Properties.Resources.resources
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.GenerateResource.cache
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.exe
+D:\Users\User\Desktop\mateusz_bartkowiak-master\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.pdb
