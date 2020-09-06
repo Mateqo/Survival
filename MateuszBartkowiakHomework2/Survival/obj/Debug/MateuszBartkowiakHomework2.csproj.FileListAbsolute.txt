@@ -1,0 +1,36 @@
+C:\Users\matmi\source\repos\Survival\Survival\bin\Debug\MateuszBartkowiakHomework2.exe.config
+C:\Users\matmi\source\repos\Survival\Survival\bin\Debug\MateuszBartkowiakHomework2.exe
+C:\Users\matmi\source\repos\Survival\Survival\bin\Debug\MateuszBartkowiakHomework2.pdb
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.csprojAssemblyReference.cache
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.End.resources
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.Game.resources
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.Info.resources
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.Properties.Resources.resources
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.GenerateResource.cache
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.CoreCompileInputs.cache
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.exe
+C:\Users\matmi\source\repos\Survival\Survival\obj\Debug\MateuszBartkowiakHomework2.pdb
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.exe.config
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.exe
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.pdb
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csprojAssemblyReference.cache
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.End.resources
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Game.resources
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Info.resources
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Properties.Resources.resources
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.GenerateResource.cache
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.CoreCompileInputs.cache
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.exe
+C:\Users\matmi\source\repos\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.pdb
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.exe.config
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.exe
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\bin\Debug\MateuszBartkowiakHomework2.pdb
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csprojAssemblyReference.cache
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.End.resources
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Game.resources
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Info.resources
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.Properties.Resources.resources
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.GenerateResource.cache
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.csproj.CoreCompileInputs.cache
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.exe
+C:\Users\matmi\source\repos\mateusz_bartkowiak\Laboratorium 2\MateuszBartkowiakHomework2\MateuszBartkowiakHomework2\Survival\obj\Debug\MateuszBartkowiakHomework2.pdb

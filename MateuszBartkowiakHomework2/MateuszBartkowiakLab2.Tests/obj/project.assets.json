@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MateuszBartkowiakHomework2/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MateuszBartkowiakHomework2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MateuszBartkowiakHomework2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MateuszBartkowiakHomework2/1.0.0": {
+      "type": "project",
+      "path": "../Survival/MateuszBartkowiakHomework2.csproj",
+      "msbuildProject": "../Survival/MateuszBartkowiakHomework2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "MateuszBartkowiakHomework2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\User\\Desktop\\mateusz_bartkowiak-master\\Laboratorium 2\\MateuszBartkowiakHomework2\\MateuszBartkowiakHomework2\\MateuszBartkowiakLab2.Tests\\MateuszBartkowiakLab2.Tests.csproj",
+      "projectName": "MateuszBartkowiakLab2.Tests",
+      "projectPath": "D:\\Users\\User\\Desktop\\mateusz_bartkowiak-master\\Laboratorium 2\\MateuszBartkowiakHomework2\\MateuszBartkowiakHomework2\\MateuszBartkowiakLab2.Tests\\MateuszBartkowiakLab2.Tests.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\User\\Desktop\\mateusz_bartkowiak-master\\Laboratorium 2\\MateuszBartkowiakHomework2\\MateuszBartkowiakHomework2\\MateuszBartkowiakLab2.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "D:\\Users\\User\\Desktop\\mateusz_bartkowiak-master\\Laboratorium 2\\MateuszBartkowiakHomework2\\MateuszBartkowiakHomework2\\Survival\\MateuszBartkowiakHomework2.csproj": {
+              "projectPath": "D:\\Users\\User\\Desktop\\mateusz_bartkowiak-master\\Laboratorium 2\\MateuszBartkowiakHomework2\\MateuszBartkowiakHomework2\\Survival\\MateuszBartkowiakHomework2.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  }
+}

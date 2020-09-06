@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{397F4EA0-7FE5-4871-BBDD-3F48EB1E5738}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MateuszBartkowiakHomework2</RootNamespace>
+    <AssemblyName>MateuszBartkowiakHomework2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>game.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ammo.cs" />
+    <Compile Include="Boss.cs" />
+    <Compile Include="Character.cs" />
+    <Compile Include="End.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="End.Designer.cs">
+      <DependentUpon>End.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enemy.cs" />
+    <Compile Include="Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game.Designer.cs">
+      <DependentUpon>Game.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hp.cs" />
+    <Compile Include="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info.Designer.cs">
+      <DependentUpon>Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shoot.cs" />
+    <EmbeddedResource Include="End.resx">
+      <DependentUpon>End.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game.resx">
+      <DependentUpon>Game.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info.resx">
+      <DependentUpon>Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fvev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1484588002heart-png-free.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purepng.com-gravestonegravestoneheadstonetombstonestele-1701527777824cmuva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\victory-icon-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xdd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_bB12378.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumb-1920-54846.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7aa9a61ba94e18cecf823ec06bd4823a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BossDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BossLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bossRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BossUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer_key_X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nowystart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vrbrb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wasd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whgqh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c11c5660-48d4-408a-bcf0-20f433f05ee41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c11c5660-48d4-408a-bcf0-20f433f05ee4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="game.ico" />
+    <None Include="Resources\save-icon-2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
